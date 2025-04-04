@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Lawrence Taiwo Ayomide
 
-I'm a software developer who loves building web, mobile and cloud application. Passionate about solving problems through code and learning new technologies!
+I'm a software developer who loves building web, mobile and cloud applications. Passionate about solving problems through code and learning new technologies!
 
 ## 🛠️ Skills & Technologies
 - **Languages:** Python, JavaScript, Java
