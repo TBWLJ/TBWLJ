@@ -1,20 +1,24 @@
-# Hello, I'm Taiwo Ayomide(TBWLJ) 👋
+# 👋 Hi there! I'm Lawrence Taiwo Ayomide
 
-I'm a passionate software developer with a love for solving problems through code. I enjoy working on open-source projects, learning new technologies, and building things that can make a difference.
+I'm a software developer who loves building web, mobile and cloud application. Passionate about solving problems through code and learning new technologies!
 
-- 🔭 I’m currently working on Hopestream Movies App].
-- 💬 Ask me about anything related to Web development, Mobile Development, CI/CD.
-- ⚡ Fun fact: I love blogging.
+## 🛠️ Skills & Technologies
+- **Languages:** Python, JavaScript, Java
+- **Frameworks/Tools:** React, Node.js, Spring boot, AWS, Docker, Flask, Django
+- **Cloud & DevOps:** AWS, Azure, Kubernetes, Terraform
+- **Databases:** PostgreSQL, MongoDB, Redis, MySQL
 
-## My Skills:
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Spring boot
-- **Tools**: Git, Docker, Kubernetes, AWS, VS Code
+## 🌱 Current Projects
+- Building a movie streaming app with Java and Nodejs.
 
-# Get in Touch 📬
+## 📚 Learning Journey
+- Currently diving into Vue js to level up my skills in frontend.
 
-Feel free to reach out if you want to collaborate on a project, ask me questions, or just talk tech!
+## 🏞️ Outside of Tech
+When I'm not coding, you can find me watching movies. I'm also passionate about blogging.
 
-- ✉️ Email: taiwoayomide202@gmail.com
-- 🐦 Twitter: meetjtaiwo
-- 🌍 LinkedIn: Taiwo Ayomide
+## 📫 How to Reach Me
+- LinkedIn: Taiwo Ayomide
+- Email me at taiwoayomide202@gmail.com
+
+> "It can only get better" – Taiwo Ayomide
