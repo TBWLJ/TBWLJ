@@ -11,14 +11,14 @@ I'm a software developer who loves building web, mobile and cloud applications. 
 ## 🌱 Current Projects
 - Building a movie streaming app with Java and Nodejs.
 
-## 📚 Learning Journey
-- Currently diving into Vue js to level up my skills in frontend.
+## 🏆 Achievements
 
-## 🏞️ Outside of Tech
-When I'm not coding, you can find me watching movies. I'm also passionate about blogging.
-
-## 📫 How to Reach Me
-- LinkedIn: Taiwo Ayomide
-- Email me at taiwoayomide202@gmail.com
+- 🌱 **Built ConnectMarket E-commerce Website**: Developed an e-commerce platform with Spring Boot and MongoDB [ConnectMarket](www.connectmarket.com).
+- 🌱 **Built Parcelpal Courier application**: I built the server-side of ParcelPal application, app on Playstore and Appstore
+- 🌱 **Built Think and design website**:I develop a student management system for a Graphic Design school  [Think And Design Academy](www.thinkanddesign.vercel.app).
+- 🌱 **Built CBT Platform LAUTECH Post graduate school**: I develop a Computer Based Test for a Postgraduate School Education Center  [Manifestation Educational Consult, LAUTECH]
+- 🚀 **Completed Computer Science**: Completed the Java Developer Advanced track on Udemy.
+- 🎓 **Technical Blog Writer**: Published an article on how to deploy nodejs application on render [Medium post](https://medium.com/@taiwoayomide202/deploying-a-node-js-application-on-render-a-step-by-step-guide-for-beginners-1be627ae9cda).
+- 🏆 **Hackathon Winner**: Won as Ist runner up in a hackathon competition in Ife with a project built on Node.js and Express.
 
 > "It can only get better" – Taiwo Ayomide
