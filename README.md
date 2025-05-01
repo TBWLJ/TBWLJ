@@ -1,24 +1,53 @@
-# 👋 Hi there! I'm Lawrence Taiwo Ayomide
+# 👋 Hi, I'm Lawrence Taiwo Ayomide
 
-I'm a software developer who loves building web, mobile and cloud applications. Passionate about solving problems through code and learning new technologies!
+I'm a results-oriented Software Engineer with 4+ years of experience designing and developing scalable web, mobile, and cloud-based applications. I specialize in building full-stack solutions using modern technologies and leading development teams to deliver high-impact products.
 
-## 🛠️ Skills & Technologies
-- **Languages:** Python, JavaScript, Java
-- **Frameworks/Tools:** React, Node.js, Spring boot, AWS, Docker, Flask, Django
-- **Cloud & DevOps:** AWS, Azure, Kubernetes, Terraform
-- **Databases:** PostgreSQL, MongoDB, Redis, MySQL
+---
 
-## 🌱 Current Projects
-- Building a movie streaming app with Java and Nodejs.
+## 🛠️ Technical Skills
 
-## 🏆 Achievements
+- **Languages:** JavaScript (Node.js, NestJS), Java (Spring Boot), Python, PHP (Laravel)
+- **Frameworks/Tools:** React, React Native, Express, Angular, Vue, Docker, Jenkins
+- **Cloud & DevOps:** AWS, GCP, Kubernetes, Git, WebSocket, NGINX, Terraform
+- **Databases:** PostgreSQL, MongoDB, MySQL, Cassandra, Redis, Oracle
+- **Testing:** Selenium, Jest
 
-- 🌱 **Built ConnectMarket E-commerce Website**: Developed an e-commerce platform with Spring Boot and MongoDB [ConnectMarket](www.connectmarket.com).
-- 🌱 **Built Parcelpal Courier application**: I built the server-side of ParcelPal application, app on Playstore and Appstore
-- 🌱 **Built Think and design website**:I develop a student management system for a Graphic Design school  [Think And Design Academy](https://github.com/TBWLJ/TADavid.git).
-- 🌱 **Built CBT Platform LAUTECH Post graduate school**: I develop a Computer Based Test for a Postgraduate School Education Center  [Manifestation Educational Consult, LAUTECH]
-- 🚀 **Completed Computer Science**: Completed the Java Developer Advanced track on Udemy.
-- 🎓 **Technical Blog Writer**: Published an article on how to deploy nodejs application on render [Medium post](https://medium.com/@taiwoayomide202/deploying-a-node-js-application-on-render-a-step-by-step-guide-for-beginners-1be627ae9cda).
-- 🏆 **Hackathon Winner**: Won as Ist runner up in a hackathon competition in Ife with a project built on Node.js and Express.
+---
 
-> "It can only get better" – Taiwo Ayomide
+## 🚀 Featured Projects
+
+- **🛒 ConnectMarket E-commerce Platform**  
+  Architected and led development of a multi-vendor e-commerce platform using Spring Boot and MongoDB, supporting thousands of concurrent users.  
+  🌐 [www.connectmarket.com](https://www.connectmarket.com)
+
+- **📦 ParcelPal Courier Application**  
+  Engineered backend services for a cross-platform courier delivery app, now available on the Play Store and App Store.  
+  *(Source private)*
+
+- **🎓 Think and Design Academy Portal**  
+  Delivered a student management system for a graphic design school using React and Node.js.  
+  🔗 [GitHub Repo](https://github.com/TBWLJ/TADavid.git)
+
+- **📝 CBT Platform – LAUTECH Postgraduate School**  
+  Built a Computer-Based Testing (CBT) platform that streamlined exam administration for postgraduate programs.  
+  🌐 [Manifestation Educational Consult](https://manifestationedu.vercel.app/)
+
+---
+
+## ✍️ Publications
+
+- **Deploying a Node.js App on Render – A Step-by-Step Guide**  
+  📰 [Read on Medium](https://medium.com/@taiwoayomide202/deploying-a-node-js-application-on-render-a-step-by-step-guide-for-beginners-1be627ae9cda)
+
+---
+
+## 🏆 Highlights
+
+- 🧠 **Scaled Infrastructure**: Migrated apps from startup to scale-up, implementing load balancing and horizontal scaling.
+- 🛠️ **Optimized DevOps Pipelines**: Built CI/CD workflows using Jenkins and Docker to reduce deployment time by 35%.
+- 🎓 **Completed BSc in Computer Science** – University of the People, USA
+- 🏅 **Hackathon 1st Runner-Up** – Built a logistics app during a local competition in Ife using Node.js and Express.
+
+---
+
+> “It can only get better.” – Taiwo Ayomide
