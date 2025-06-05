@@ -6,7 +6,7 @@ I'm a results-oriented Software Engineer with 4+ years of experience designing a
 
 ## 🛠️ Technical Skills
 
-- **Languages:** JavaScript (Node.js, NestJS), Java (Spring Boot), Python, PHP (Laravel)
+- **Languages:** JavaScript (Node.js, NestJS), Java (Spring Boot), Python
 - **Frameworks/Tools:** React, React Native, Express, Angular, Vue, Docker, Jenkins
 - **Cloud & DevOps:** AWS, GCP, Kubernetes, Git, WebSocket, NGINX, Terraform
 - **Databases:** PostgreSQL, MongoDB, MySQL, Cassandra, Redis, Oracle
