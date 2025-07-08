@@ -6,15 +6,19 @@ I'm a results-oriented Software Engineer with 4+ years of experience designing a
 
 ## 🛠️ Technical Skills
 
-- **Languages:** JavaScript (Node.js, NestJS), Java (Spring Boot), Python
-- **Frameworks/Tools:** React, React Native, Express, Angular, Vue, Docker, Jenkins
-- **Cloud & DevOps:** AWS, GCP, Kubernetes, Git, WebSocket, NGINX, Terraform
-- **Databases:** PostgreSQL, MongoDB, MySQL, Cassandra, Redis, Oracle
-- **Testing:** Selenium, Jest
+- **Languages:** JavaScript (Node.js, NestJS), Java (Spring Boot), Python  
+- **Frameworks/Tools:** React, React Native, Express, Angular, Vue, Docker, Jenkins  
+- **Cloud & DevOps:** AWS, GCP, Kubernetes, Git, WebSocket, NGINX, Terraform  
+- **Databases:** PostgreSQL, MongoDB, MySQL, Cassandra, Redis, Oracle  
+- **Testing:** Selenium, Jest  
 
 ---
 
 ## 🚀 Featured Projects
+
+- **🛠️ Panelly – Branded Client Portals for Freelancers & Agencies**  
+  A SaaS platform that enables freelancers to create branded client portals for sharing project updates, files, invoices, and more. Panelly streamlines client communication, payment, and collaboration in one seamless experience.  
+  🌐 [panelly.name.ng](https://panelly.name.ng)
 
 - **🛒 ConnectMarket E-commerce Platform**  
   Architected and led development of a multi-vendor e-commerce platform using Spring Boot and MongoDB, supporting thousands of concurrent users.  
@@ -43,10 +47,10 @@ I'm a results-oriented Software Engineer with 4+ years of experience designing a
 
 ## 🏆 Highlights
 
-- 🧠 **Scaled Infrastructure**: Migrated apps from startup to scale-up, implementing load balancing and horizontal scaling.
-- 🛠️ **Optimized DevOps Pipelines**: Built CI/CD workflows using Jenkins and Docker to reduce deployment time by 35%.
-- 🎓 **Completed BSc in Computer Science** – University of the People, USA
-- 🏅 **Hackathon 1st Runner-Up** – Built a logistics app during a local competition in Ife using Node.js and Express.
+- 🧠 **Scaled Infrastructure**: Migrated apps from startup to scale-up, implementing load balancing and horizontal scaling.  
+- 🛠️ **Optimized DevOps Pipelines**: Built CI/CD workflows using Jenkins and Docker to reduce deployment time by 35%.  
+- 🎓 **Completed BSc in Computer Science** – University of the People, USA  
+- 🏅 **Hackathon 1st Runner-Up** – Built a logistics app during a local competition in Ife using Node.js and Express.  
 
 ---
 
