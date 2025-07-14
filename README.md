@@ -54,4 +54,4 @@ I'm a results-oriented Software Engineer with 4+ years of experience designing a
 
 ---
 
-> “It can only get better.” – Taiwo Ayomide
+> “It can only get better.” – Taiwo Ayomide (the_tbwlj)
