@@ -16,6 +16,11 @@ I'm a results-oriented Software Engineer with 5+ years of experience designing a
 
 ## 🚀 Featured Projects
 
+- **Samaday Properties - Full flege Real Estate property management application**
+  A real estate website for managing rentage and selling of properties between landlord and tenants. The platform enables landlords to come onboard for property listing and management. It also enable Landlord to Tenant flow without any intermediary.
+  🌐 [samaday.com.ng](https://samaday.com.ng)
+  
+
 - **🛠️ Panelly – Branded Client Portals for Freelancers & Agencies**  
   A SaaS platform that enables freelancers to create branded client portals for sharing project updates, files, invoices, and more. Panelly streamlines client communication, payment, and collaboration in one seamless experience.  
   🌐 [panelly.name.ng](https://panelly.name.ng)
@@ -39,6 +44,9 @@ I'm a results-oriented Software Engineer with 5+ years of experience designing a
 ---
 
 ## ✍️ Publications
+
+- **As a Backend Developer: How to Store and Retrieve Large Files (100MB+) Efficiently**
+  📰 [Read on Medium](https://medium.com/@taiwoayomide202/as-a-backend-developer-how-to-store-and-retrieve-large-files-100mb-efficiently-102ab9eb1922)
 
 - **Deploying a Node.js App on Render – A Step-by-Step Guide**  
   📰 [Read on Medium](https://medium.com/@taiwoayomide202/deploying-a-node-js-application-on-render-a-step-by-step-guide-for-beginners-1be627ae9cda)
