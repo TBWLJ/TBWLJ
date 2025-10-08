@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Lawrence Taiwo Ayomide
 
-I'm a results-oriented Software Engineer with 5+ years of experience designing and developing scalable web, mobile, and cloud-based applications. I specialize in building full-stack solutions using modern technologies and leading development teams to deliver high-impact products.
+I'm a results-oriented **Software Engineer** with over **5 years of experience** designing and developing scalable web, mobile, and cloud-based applications. I specialize in **full-stack development** and **technical leadership**, building impactful products using modern technologies.
 
 ---
 
 ## 🛠️ Technical Skills
 
 - **Languages:** JavaScript (Node.js, NestJS), Java (Spring Boot), Python  
-- **Frameworks/Tools:** React, React Native, Express, Angular, Vue, Docker, Jenkins  
+- **Frameworks & Tools:** React, React Native, Express, Angular, Vue, Docker, Jenkins  
 - **Cloud & DevOps:** AWS, GCP, Kubernetes, Git, WebSocket, NGINX, Terraform  
 - **Databases:** PostgreSQL, MongoDB, MySQL, Cassandra, Redis, Oracle  
 - **Testing:** Selenium, Jest  
@@ -16,36 +16,35 @@ I'm a results-oriented Software Engineer with 5+ years of experience designing a
 
 ## 🚀 Featured Projects
 
-- **Samaday Properties - Full flege Real Estate property management application**
-  A real estate website for managing rentage and selling of properties between landlord and tenants. The platform enables landlords to come onboard for property listing and management. It also enable Landlord to Tenant flow without any intermediary.
+- **🏠 Samaday Properties – Full-fledged Real Estate Platform**  
+  A property management application for landlords and tenants. It enables landlords to list, manage, and rent properties directly — no intermediaries.  
   🌐 [samaday.com.ng](https://samaday.com.ng)
   
-
-- **🛠️ Panelly – Branded Client Portals for Freelancers & Agencies**  
-  A SaaS platform that enables freelancers to create branded client portals for sharing project updates, files, invoices, and more. Panelly streamlines client communication, payment, and collaboration in one seamless experience.  
+- **🧩 Panelly – Branded Client Portals for Freelancers & Agencies**  
+  A SaaS platform that allows freelancers to create branded client portals for sharing updates, invoices, and project deliverables.  
   🌐 [panelly.name.ng](https://panelly.name.ng)
 
-- **🛒 ConnectMarket E-commerce Platform**  
-  Architected and led development of a multi-vendor e-commerce platform using Spring Boot and MongoDB, supporting thousands of concurrent users.  
-  🌐 [www.connectmarket.com](https://www.connectmarket.com)
+- **🛒 ConnectMarket – Multi-Vendor E-commerce Platform**  
+  Architected and led the development of a scalable marketplace using **Spring Boot** and **MongoDB**, supporting thousands of concurrent users.  
+  🌐 [connectmarket.com](https://www.connectmarket.com)
 
-- **📦 ParcelPal Courier Application**  
-  Engineered backend services for a cross-platform courier delivery app, now available on the Play Store and App Store.  
+- **📦 ParcelPal – Courier Delivery Application**  
+  Engineered backend microservices for a cross-platform logistics app, available on the Play Store and App Store.  
   *(Source private)*
 
 - **🎓 Think and Design Academy Portal**  
-  Delivered a student management system for a graphic design school using React and Node.js.  
+  Built a student management platform for a design school using **React** and **Node.js**.  
   🔗 [GitHub Repo](https://github.com/TBWLJ/TADavid.git)
 
 - **📝 CBT Platform – LAUTECH Postgraduate School**  
-  Built a Computer-Based Testing (CBT) platform that streamlined exam administration for postgraduate programs.  
+  Developed a computer-based testing system that streamlined exam management for postgraduate students.  
   🌐 [Manifestation Educational Consult](https://manifestationedu.vercel.app/)
 
 ---
 
 ## ✍️ Publications
 
-- **As a Backend Developer: How to Store and Retrieve Large Files (100MB+) Efficiently**
+- **As a Backend Developer: How to Store and Retrieve Large Files (100MB+) Efficiently**  
   📰 [Read on Medium](https://medium.com/@taiwoayomide202/as-a-backend-developer-how-to-store-and-retrieve-large-files-100mb-efficiently-102ab9eb1922)
 
 - **Deploying a Node.js App on Render – A Step-by-Step Guide**  
@@ -55,11 +54,11 @@ I'm a results-oriented Software Engineer with 5+ years of experience designing a
 
 ## 🏆 Highlights
 
-- 🧠 **Scaled Infrastructure**: Migrated apps from startup to scale-up, implementing load balancing and horizontal scaling.  
-- 🛠️ **Optimized DevOps Pipelines**: Built CI/CD workflows using Jenkins and Docker to reduce deployment time by 35%.  
-- 🎓 **Completed BSc in Computer Science** – University of the People, USA  
-- 🏅 **Hackathon 1st Runner-Up** – Built a logistics app during a local competition in Ife using Node.js and Express.  
+- 🧠 **Scaled Infrastructure:** Migrated apps from startup to scale-up using load balancing and horizontal scaling.  
+- 🛠️ **Optimized CI/CD Pipelines:** Reduced deployment time by **35%** using Jenkins and Docker.  
+- 🎓 **BSc in Computer Science** – University of the People, USA  
+- 🥈 **Hackathon 1st Runner-Up:** Built a logistics app with Node.js and Express during a local tech competition in Ife.  
 
 ---
 
-> “It can only get better.” – Taiwo Ayomide (the_tbwlj)
+> _“It can only get better.”_ — **Taiwo Ayomide (the_tbwlj)**
