@@ -18,10 +18,12 @@ I'm a results-oriented **Software Engineer** with over **5 years of experience**
 
 - **🏠 Viewlocked - Lead Backend Engineer**  
   Viewlocked helps you discover personalized trip packages from hidden local gems to world-famous destinations, all tailored to your preferences and budget.
+
   🌐 [Viewlocked.com](https://viewlocked.com)
 
 - **🏠 Shop4Mi – Full-fledged Mini Ecommerce platform**  
   The shopping app built by students, for students so you never miss a class again.
+
   🌐 [shop4mi.com.ng](https://shop4mi.com.ng)
 
 - **🏠 Samaday Properties – Full-fledged Real Estate Platform**  
