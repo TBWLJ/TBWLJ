@@ -6,7 +6,7 @@ I'm a results-oriented **Software Engineer** with over **5 years of experience**
 
 ## 🛠️ Technical Skills
 
-- **Languages:** JavaScript (Node.js, NestJS), Java (Spring Boot), Python  
+- **Languages:** JavaScript (Node.js, NestJS), Java (Spring Boot)  
 - **Frameworks & Tools:** React, React Native, Express, Angular, Vue, Docker, Jenkins  
 - **Cloud & DevOps:** AWS, GCP, Kubernetes, Git, WebSocket, NGINX, Terraform  
 - **Databases:** PostgreSQL, MongoDB, MySQL, Cassandra, Redis, Oracle  
@@ -18,7 +18,7 @@ I'm a results-oriented **Software Engineer** with over **5 years of experience**
 
 - **🏠 Viewlocked - Lead Backend Engineer**  
   Viewlocked helps you discover personalized trip packages from hidden local gems to world-famous destinations, all tailored to your preferences and budget.
-  🌐 [viewlocked.com](https://viewlocked.com)
+  🌐 [Viewlocked.com](https://viewlocked.com)
 
 - **🏠 Shop4Mi – Full-fledged Mini Ecommerce platform**  
   The shopping app built by students, for students so you never miss a class again.
