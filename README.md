@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Taiwo Ayomide Lawrence
+# 👋 Hi, I'm Lawrence Taiwo Ayomide
 
 I'm a results-oriented **Software Engineer** with over **5 years of experience** designing and developing scalable web, mobile, and cloud-based applications. I specialize in **full-stack development** and **technical leadership**, building impactful products using modern technologies.
 
