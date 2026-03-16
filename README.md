@@ -1,74 +1,169 @@
-# 👋 Hi, I'm Ayomide Lawrence Taiwo
+# 👋 Hi, I'm **Ayomide Lawrence Taiwo**
 
-I'm a results-oriented **Software Engineer** with over **5 years of experience** designing and developing scalable web, mobile, and cloud-based applications. I specialize in **full-stack development** and **technical leadership**, building impactful products using modern technologies.
+### _Software Engineer | Backend & Full-Stack Developer_
 
----
+I'm a results-oriented **Software Engineer** with over **5 years of experience** designing and developing scalable **web, mobile, and cloud-based applications**.
 
-## 🛠️ Technical Skills
+I specialize in **full-stack development**, **backend architecture**, and **technical leadership**, building impactful products using modern technologies.
 
-- **Languages:** JavaScript (Node.js, NestJS), Java (Spring Boot)  
-- **Frameworks & Tools:** React, React Native, Express, Angular, Vue, Docker, Jenkins  
-- **Cloud & DevOps:** AWS, GCP, Kubernetes, Git, WebSocket, NGINX, Terraform  
-- **Databases:** PostgreSQL, MongoDB, MySQL, Cassandra, Redis, Oracle  
-- **Testing:** Selenium, Jest  
+My focus is on creating **high-performance APIs**, **scalable systems**, and **developer-focused platforms** that power real-world applications.
 
 ---
 
-## 🚀 Featured Projects
+# 🛠️ **Technical Skills**
 
-- **🏠 Viewlocked - Lead Backend Engineer**  
-  Viewlocked helps you discover personalized trip packages from hidden local gems to world-famous destinations, all tailored to your preferences and budget.
+## 💻 **Languages**
+- **JavaScript** _(Node.js, NestJS)_
+- **Java** _(Spring Boot)_
 
-  🌐 [Viewlocked.com](https://viewlocked.com)
+## ⚙️ **Frameworks & Tools**
+- **React**
+- **React Native**
+- **Express**
+- **Angular**
+- **Vue**
+- **Docker**
+- **Jenkins**
 
-- **🏠 Shop4Mi – Full-fledged Mini Ecommerce platform**  
-  The shopping app built by students, for students so you never miss a class again.
+## ☁️ **Cloud & DevOps**
+- **AWS**
+- **Google Cloud Platform (GCP)**
+- **Kubernetes**
+- **Git**
+- **WebSocket**
+- **NGINX**
+- **Terraform**
 
-  🌐 [shop4mi.com.ng](https://shop4mi.com.ng)
+## 🗄️ **Databases**
+- **PostgreSQL**
+- **MongoDB**
+- **MySQL**
+- **Cassandra**
+- **Redis**
+- **Oracle**
 
-- **🏠 Samaday Properties – Full-fledged Real Estate Platform**  
-  A property management application for landlords and tenants. It enables landlords to list, manage, and rent properties directly — no intermediaries.  
-  🌐 [samaday.com.ng](https://samaday.com.ng)
-  
-- **🧩 Panelly – Branded Client Portals for Freelancers & Agencies**  
-  A SaaS platform that allows freelancers to create branded client portals for sharing updates, invoices, and project deliverables.  
-  🌐 [panelly.name.ng](https://panelly.name.ng)
-
-- **🛒 ConnectMarket – Multi-Vendor E-commerce Platform**  
-  Architected and led the development of a scalable marketplace using **Spring Boot** and **MongoDB**, supporting thousands of concurrent users.  
-  🌐 [connectmarket.com](https://www.connectmarket.com)
-
-- **📦 ParcelPal – Courier Delivery Application**  
-  Engineered backend microservices for a cross-platform logistics app, available on the Play Store and App Store.  
-  *(Source private)*
-
-- **🎓 Think and Design Academy Portal**  
-  Built a student management platform for a design school using **React** and **Node.js**.  
-  🔗 [GitHub Repo](https://github.com/TBWLJ/TADavid.git)
-
-- **📝 CBT Platform – LAUTECH Postgraduate School**  
-  Developed a computer-based testing system that streamlined exam management for postgraduate students.  
-  🌐 [Manifestation Educational Consult](https://manifestationedu.vercel.app/)
-
----
-
-## ✍️ Publications
-
-- **As a Backend Developer: How to Store and Retrieve Large Files (100MB+) Efficiently**  
-  📰 [Read on Medium](https://medium.com/@taiwoayomide202/as-a-backend-developer-how-to-store-and-retrieve-large-files-100mb-efficiently-102ab9eb1922)
-
-- **Deploying a Node.js App on Render – A Step-by-Step Guide**  
-  📰 [Read on Medium](https://medium.com/@taiwoayomide202/deploying-a-node-js-application-on-render-a-step-by-step-guide-for-beginners-1be627ae9cda)
+## 🧪 **Testing**
+- **Jest**
+- **Selenium**
 
 ---
 
-## 🏆 Highlights
+# 🚀 **Featured Projects**
 
-- 🧠 **Scaled Infrastructure:** Migrated apps from startup to scale-up using load balancing and horizontal scaling.  
-- 🛠️ **Optimized CI/CD Pipelines:** Reduced deployment time by **35%** using Jenkins and Docker.  
-- 🎓 **BSc in Computer Science** – University of the People, USA  
-- 🥈 **Hackathon 1st Runner-Up:** Built a logistics app with Node.js and Express during a local tech competition in Ife.  
+## 🏠 **Viewlocked** — _Lead Backend Engineer_
+
+Viewlocked helps users discover **personalized travel packages**, from hidden local gems to world-famous destinations — all tailored to their **preferences and budget**.
+
+🌐 **Website:**  
+https://viewlocked.com
 
 ---
 
-> _“It can only get better.”_ — **Taiwo Ayomide (the_tbwlj)**
+## 🛍 **Shop4Mi** — _Mini E-commerce Platform_
+
+A shopping platform **built by students, for students**, enabling easy campus shopping so students never have to miss a class.
+
+🌐 **Website:**  
+https://shop4mi.com.ng
+
+---
+
+## 🏠 **Samaday Properties** — _Real Estate Platform_
+
+A **property management application** that allows landlords to **list, manage, and rent properties directly**, eliminating intermediaries.
+
+🌐 **Website:**  
+https://samaday.com.ng
+
+---
+
+## 🧩 **Panelly** — _Branded Client Portals for Freelancers & Agencies_
+
+A **SaaS platform** that allows freelancers and agencies to create **branded client portals** where clients can view updates, invoices, project deliverables, and communication.
+
+🌐 **Website:**  
+https://panelly.name.ng
+
+---
+
+## 🛒 **ConnectMarket** — _Multi-Vendor E-commerce Platform_
+
+Architected and led the development of a **scalable marketplace platform** using **Spring Boot** and **MongoDB**, supporting **thousands of concurrent users**.
+
+🌐 **Website:**  
+https://www.connectmarket.com
+
+---
+
+## 📦 **ParcelPal** — _Courier Delivery Application_
+
+Engineered backend **microservices architecture** for a cross-platform **logistics and courier delivery application** available on both the **Google Play Store** and **Apple App Store**.
+
+_Repository: Private_
+
+---
+
+## 🎓 **Think & Design Academy Portal**
+
+Developed a **student management platform** for a design academy using **React** and **Node.js**.
+
+🔗 **GitHub Repository:**  
+https://github.com/TBWLJ/TADavid
+
+---
+
+## 📝 **CBT Platform — LAUTECH Postgraduate School**
+
+Developed a **computer-based testing system** that streamlined **exam management and assessment** for postgraduate students.
+
+🌐 **Platform:**  
+https://manifestationedu.vercel.app/
+
+---
+
+# ✍️ **Publications**
+
+## 📰 _As a Backend Developer: How to Store and Retrieve Large Files (100MB+) Efficiently_
+
+Learn techniques for efficiently storing and retrieving **large files in backend systems**.
+
+🔗  
+https://medium.com/@taiwoayomide202/as-a-backend-developer-how-to-store-and-retrieve-large-files-100mb-efficiently-102ab9eb1922
+
+---
+
+## 📰 _Deploying a Node.js App on Render — A Step-by-Step Guide_
+
+A practical guide to deploying **Node.js applications** using **Render**.
+
+🔗  
+https://medium.com/@taiwoayomide202/deploying-a-node-js-application-on-render-a-step-by-step-guide-for-beginners-1be627ae9cda
+
+---
+
+# 🏆 **Highlights**
+
+- 🧠 **Scaled Infrastructure:** Migrated applications from startup scale to production scale using **load balancing** and **horizontal scaling**
+
+- 🛠️ **Optimized CI/CD Pipelines:** Reduced deployment time by **35%** using **Jenkins** and **Docker**
+
+- 🎓 **BSc in Computer Science**  
+  _University of the People, USA_
+
+- 🥈 **Hackathon 1st Runner-Up**  
+  Built a **logistics application** using **Node.js** and **Express** during a local tech competition in **Ife**
+
+---
+
+# 📫 **Connect With Me**
+
+- **GitHub:**  
+  https://github.com/TBWLJ
+
+- **Medium:**  
+  https://medium.com/@taiwoayomide202
+
+---
+
+> **_“It can only get better.”_**  
+> — **Taiwo Ayomide** *(the_tbwlj)*
