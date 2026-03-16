@@ -1,169 +1,150 @@
 # 👋 Hi, I'm **Ayomide Lawrence Taiwo**
 
+![Profile Views](https://komarev.com/ghpvc/?username=TBWLJ&label=Profile%20Views&color=0e75b6&style=flat)
+
 ### _Software Engineer | Backend & Full-Stack Developer_
 
 I'm a results-oriented **Software Engineer** with over **5 years of experience** designing and developing scalable **web, mobile, and cloud-based applications**.
 
 I specialize in **full-stack development**, **backend architecture**, and **technical leadership**, building impactful products using modern technologies.
 
-My focus is on creating **high-performance APIs**, **scalable systems**, and **developer-focused platforms** that power real-world applications.
+My focus is on building **high-performance APIs, scalable systems, and developer platforms** used in real-world production environments.
 
 ---
 
-# 🛠️ **Technical Skills**
+# 🧰 Tech Stack
 
-## 💻 **Languages**
-- **JavaScript** _(Node.js, NestJS)_
-- **Java** _(Spring Boot)_
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-## ⚙️ **Frameworks & Tools**
-- **React**
-- **React Native**
-- **Express**
-- **Angular**
-- **Vue**
-- **Docker**
-- **Jenkins**
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-## ☁️ **Cloud & DevOps**
-- **AWS**
-- **Google Cloud Platform (GCP)**
-- **Kubernetes**
-- **Git**
-- **WebSocket**
-- **NGINX**
-- **Terraform**
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-## 🗄️ **Databases**
-- **PostgreSQL**
-- **MongoDB**
-- **MySQL**
-- **Cassandra**
-- **Redis**
-- **Oracle**
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge)
 
-## 🧪 **Testing**
-- **Jest**
-- **Selenium**
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
+![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
 
 ---
 
-# 🚀 **Featured Projects**
+# 📊 GitHub Stats
 
-## 🏠 **Viewlocked** — _Lead Backend Engineer_
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TBWLJ&show_icons=true&theme=tokyonight)
 
-Viewlocked helps users discover **personalized travel packages**, from hidden local gems to world-famous destinations — all tailored to their **preferences and budget**.
-
-🌐 **Website:**  
-https://viewlocked.com
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TBWLJ&layout=compact&theme=tokyonight)
 
 ---
 
-## 🛍 **Shop4Mi** — _Mini E-commerce Platform_
+# 🚀 Featured Projects
 
-A shopping platform **built by students, for students**, enabling easy campus shopping so students never have to miss a class.
+## 🏠 Viewlocked — Lead Backend Engineer
+Viewlocked helps users discover **personalized travel packages**, from hidden local gems to world-famous destinations.
 
-🌐 **Website:**  
-https://shop4mi.com.ng
-
----
-
-## 🏠 **Samaday Properties** — _Real Estate Platform_
-
-A **property management application** that allows landlords to **list, manage, and rent properties directly**, eliminating intermediaries.
-
-🌐 **Website:**  
-https://samaday.com.ng
+🌐 https://viewlocked.com
 
 ---
 
-## 🧩 **Panelly** — _Branded Client Portals for Freelancers & Agencies_
+## 🛍 Shop4Mi — Mini E-commerce Platform
+A shopping platform **built by students, for students**, enabling easy campus shopping.
 
-A **SaaS platform** that allows freelancers and agencies to create **branded client portals** where clients can view updates, invoices, project deliverables, and communication.
-
-🌐 **Website:**  
-https://panelly.name.ng
+🌐 https://shop4mi.com.ng
 
 ---
 
-## 🛒 **ConnectMarket** — _Multi-Vendor E-commerce Platform_
+## 🏠 Samaday Properties — Real Estate Platform
+A **property management system** allowing landlords to list, manage, and rent properties directly.
 
-Architected and led the development of a **scalable marketplace platform** using **Spring Boot** and **MongoDB**, supporting **thousands of concurrent users**.
-
-🌐 **Website:**  
-https://www.connectmarket.com
+🌐 https://samaday.com.ng
 
 ---
 
-## 📦 **ParcelPal** — _Courier Delivery Application_
+## 🧩 Panelly — Branded Client Portals for Freelancers & Agencies
+A **SaaS platform** for creating **branded client portals** where clients can view updates, invoices, and deliverables.
 
-Engineered backend **microservices architecture** for a cross-platform **logistics and courier delivery application** available on both the **Google Play Store** and **Apple App Store**.
-
-_Repository: Private_
-
----
-
-## 🎓 **Think & Design Academy Portal**
-
-Developed a **student management platform** for a design academy using **React** and **Node.js**.
-
-🔗 **GitHub Repository:**  
-https://github.com/TBWLJ/TADavid
+🌐 https://panelly.name.ng
 
 ---
 
-## 📝 **CBT Platform — LAUTECH Postgraduate School**
+## 🛒 ConnectMarket — Multi-Vendor Marketplace
+Built using **Spring Boot** and **MongoDB**, supporting **thousands of concurrent users**.
 
-Developed a **computer-based testing system** that streamlined **exam management and assessment** for postgraduate students.
-
-🌐 **Platform:**  
-https://manifestationedu.vercel.app/
+🌐 https://www.connectmarket.com
 
 ---
 
-# ✍️ **Publications**
+## 📦 ParcelPal — Courier Delivery Application
+Backend microservices powering a **cross-platform logistics app** available on **Android and iOS**.
 
-## 📰 _As a Backend Developer: How to Store and Retrieve Large Files (100MB+) Efficiently_
+_Repository private_
 
-Learn techniques for efficiently storing and retrieving **large files in backend systems**.
+---
 
-🔗  
+## 🎓 Think & Design Academy Portal
+A **student management system** built with **React and Node.js**.
+
+🔗 https://github.com/TBWLJ/TADavid
+
+---
+
+## 📝 CBT Platform — LAUTECH Postgraduate School
+Developed a **computer-based testing platform** for postgraduate examinations.
+
+🌐 https://manifestationedu.vercel.app/
+
+---
+
+# ✍️ Publications
+
+### 📰 Backend Engineering — Handling Large Files Efficiently
 https://medium.com/@taiwoayomide202/as-a-backend-developer-how-to-store-and-retrieve-large-files-100mb-efficiently-102ab9eb1922
 
----
-
-## 📰 _Deploying a Node.js App on Render — A Step-by-Step Guide_
-
-A practical guide to deploying **Node.js applications** using **Render**.
-
-🔗  
+### 📰 Deploying Node.js Apps on Render
 https://medium.com/@taiwoayomide202/deploying-a-node-js-application-on-render-a-step-by-step-guide-for-beginners-1be627ae9cda
 
 ---
 
-# 🏆 **Highlights**
+# 🏆 Highlights
 
-- 🧠 **Scaled Infrastructure:** Migrated applications from startup scale to production scale using **load balancing** and **horizontal scaling**
-
-- 🛠️ **Optimized CI/CD Pipelines:** Reduced deployment time by **35%** using **Jenkins** and **Docker**
-
-- 🎓 **BSc in Computer Science**  
-  _University of the People, USA_
-
-- 🥈 **Hackathon 1st Runner-Up**  
-  Built a **logistics application** using **Node.js** and **Express** during a local tech competition in **Ife**
+- 🧠 **Scaled Infrastructure** using load balancing and horizontal scaling  
+- ⚙️ **Reduced deployment time by 35%** via CI/CD automation  
+- 🎓 **BSc Computer Science** — University of the People, USA  
+- 🥈 **Hackathon 1st Runner-Up** — Logistics application built with Node.js
 
 ---
 
-# 📫 **Connect With Me**
+# 🐍 Contribution Snake
 
-- **GitHub:**  
-  https://github.com/TBWLJ
+![snake gif](https://github.com/TBWLJ/TBWLJ/blob/output/github-contribution-grid-snake.svg)
 
-- **Medium:**  
-  https://medium.com/@taiwoayomide202
+---
+
+# 📫 Connect With Me
+
+- GitHub: https://github.com/TBWLJ  
+- Medium: https://medium.com/@taiwoayomide202
 
 ---
 
 > **_“It can only get better.”_**  
-> — **Taiwo Ayomide** *(the_tbwlj)*
+> — **Taiwo Ayomide (the_tbwlj)**
